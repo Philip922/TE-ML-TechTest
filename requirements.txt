@@ -1,0 +1,13 @@
+pillow == 9.0.*
+torch == 2.3.*
+torchvision == 0.18.*
+transformers == 4.41.*
+pytesseract == 1.1.*
+pypdfium2 == 4.30.*
+opencv-python == 4.9.0.*
+thefuzz == 0.22.*
+fastapi == 0.111.*
+uvicorn == 0.30.*
+pydantic == 2.7.*
+chromadb == 0.5.*
+accelerate == 0.30.*
